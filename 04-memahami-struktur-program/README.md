@@ -1,0 +1,3 @@
+Pada saat file Byte Code di jalankan pada JVM, JVM akan mencari gerbang program untuk dijalankan. Secara default, JVM akan mencari method/fungsi `main`. 
+Visibiliti `public` atau `private`. Public dapat diakses sedangkan private tidak dapat di akses.
+Untuk menampilkan sesuatu pada console menggunakan API yang sudah dibuat oleh java. Dimulai dengan kata `System` artinya program akan mengakses system dimanapun program dijalankan contohnya windows, linux, mac, etc. Lalu dilanjutkan dengan titik untuk mengakses komponen yang ada pada sistem dan `out` untuk mengeluarkan sesuatu ke sistem dan `print` menghasilkan sesuatu ke console sistem.

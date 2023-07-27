@@ -1,0 +1,1 @@
+Source Code java(Main.java) di compile menjadi Byte Code(Main.class) lalu di jalankan oleh Java Virtual Machine(Embedded,server,mobile,etc)
