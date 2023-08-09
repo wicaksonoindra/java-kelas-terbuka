@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/05-organisasi-program-dengan-package/05-organisasi-program-dengan-package.iml" filepath="$PROJECT_DIR$/05-organisasi-program-dengan-package/05-organisasi-program-dengan-package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-pengenalan-print-dan-alur/06-pengenalan-print-dan-alur.iml" filepath="$PROJECT_DIR$/06-pengenalan-print-dan-alur/06-pengenalan-print-dan-alur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-memahami-string-args/07-memahami-string-args.iml" filepath="$PROJECT_DIR$/07-memahami-string-args/07-memahami-string-args.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Belajar Java - Kelas Terbuka.iml" filepath="$PROJECT_DIR$/Belajar Java - Kelas Terbuka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java07-memahami-string-args/java07-memahami-string-args.iml" filepath="$PROJECT_DIR$/java07-memahami-string-args/java07-memahami-string-args.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java08-variable-assigment-deklarasi/java08-variable-assigment-deklarasi.iml" filepath="$PROJECT_DIR$/java08-variable-assigment-deklarasi/java08-variable-assigment-deklarasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java09-tipe-data-fundamental/java09-tipe-data-fundamental.iml" filepath="$PROJECT_DIR$/java09-tipe-data-fundamental/java09-tipe-data-fundamental.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java10-operator-aritmatika/java10-operator-aritmatika.iml" filepath="$PROJECT_DIR$/java10-operator-aritmatika/java10-operator-aritmatika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java11-konversi-tipe-data-numeric/java11-konversi-tipe-data-numeric.iml" filepath="$PROJECT_DIR$/java11-konversi-tipe-data-numeric/java11-konversi-tipe-data-numeric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java12-operator-unary/java12-operator-unary.iml" filepath="$PROJECT_DIR$/java12-operator-unary/java12-operator-unary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java13-operator-assigments/java13-operator-assigments.iml" filepath="$PROJECT_DIR$/java13-operator-assigments/java13-operator-assigments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java14-operator-komparasi/java14-operator-komparasi.iml" filepath="$PROJECT_DIR$/java14-operator-komparasi/java14-operator-komparasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java15-operator-logika/java15-operator-logika.iml" filepath="$PROJECT_DIR$/java15-operator-logika/java15-operator-logika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java16-operator-bitwise/java16-operator-bitwise.iml" filepath="$PROJECT_DIR$/java16-operator-bitwise/java16-operator-bitwise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java17-mengambil-user-input/java17-mengambil-user-input.iml" filepath="$PROJECT_DIR$/java17-mengambil-user-input/java17-mengambil-user-input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java18-pengelompokkan-operasi-aritmatika/java18-pengelompokkan-operasi-aritmatika.iml" filepath="$PROJECT_DIR$/java18-pengelompokkan-operasi-aritmatika/java18-pengelompokkan-operasi-aritmatika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java19-latihan-operator-logika/java19-latihan-operator-logika.iml" filepath="$PROJECT_DIR$/java19-latihan-operator-logika/java19-latihan-operator-logika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java20-if-else-statement/java20-if-else-statement.iml" filepath="$PROJECT_DIR$/java20-if-else-statement/java20-if-else-statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java21-if-else-statement/java21-if-else-statement.iml" filepath="$PROJECT_DIR$/java21-if-else-statement/java21-if-else-statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java22-if-bersarang/java22-if-bersarang.iml" filepath="$PROJECT_DIR$/java22-if-bersarang/java22-if-bersarang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java23-switch-case/java23-switch-case.iml" filepath="$PROJECT_DIR$/java23-switch-case/java23-switch-case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java24-ternary-operator/java24-ternary-operator.iml" filepath="$PROJECT_DIR$/java24-ternary-operator/java24-ternary-operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java25-latihan-kalkulator-if-else/java25-latihan-kalkulator-if-else.iml" filepath="$PROJECT_DIR$/java25-latihan-kalkulator-if-else/java25-latihan-kalkulator-if-else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java26-kalkulator-switch-case/java26-kalkulator-switch-case.iml" filepath="$PROJECT_DIR$/java26-kalkulator-switch-case/java26-kalkulator-switch-case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java27-while-loop/java27-while-loop.iml" filepath="$PROJECT_DIR$/java27-while-loop/java27-while-loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java28-do-while-loop/java28-do-while-loop.iml" filepath="$PROJECT_DIR$/java28-do-while-loop/java28-do-while-loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java29-for-loop/java29-for-loop.iml" filepath="$PROJECT_DIR$/java29-for-loop/java29-for-loop.iml" />
+    </modules>
+  </component>
+</project>
